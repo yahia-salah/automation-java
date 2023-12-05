@@ -6,11 +6,8 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
-import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
-import java.io.IOException;
 import java.time.Duration;
 import java.util.Properties;
 
@@ -31,7 +28,7 @@ public class WebDriverInstance {
     public static WebDriver createDriver() throws Exception {
         WebDriver driver = null;
         Properties prop = new Properties();
-        FileInputStream data = new FileInputStream(System.getProperty("user.dir") + "\\src\\main\\java\\resources\\config.properties");
+        FileInputStream data = new FileInputStream(System.getProperty("user.dir") + "\\src\\main\\resources\\config.properties");
 
         prop.load(data);
 
