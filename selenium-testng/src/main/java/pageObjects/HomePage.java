@@ -3,6 +3,8 @@ package pageObjects;
 import base.BasePage;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
 
 import java.io.IOException;
 
@@ -29,7 +31,11 @@ public class HomePage extends BasePage {
     By aboutMeLink = By.linkText("ABOUT ME");
     By cookie = By.cssSelector(".close-cookie-warning > span");
 
-    public HomePage() throws IOException {
+    @FindBy(linkText = "TEST STORE")
+    WebElement testFactory;
+
+    public HomePage() throws Exception {
+        PageFactory.initElements(getDriver(),this);
     }
 
     public WebElement getToggle() throws Exception {
@@ -87,7 +93,7 @@ public class HomePage extends BasePage {
         return getDriver().findElement(tablesLink);
     }
     public WebElement getTestStoreLink() throws Exception {
-        return getDriver().findElement(testStoreLink);
+        return testFactory;
     }
     public WebElement getAboutMeLink() throws Exception {
         return getDriver().findElement(aboutMeLink);

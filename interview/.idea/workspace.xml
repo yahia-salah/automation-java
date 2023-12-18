@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c7c4142d-91c2-41df-93d1-4fcca8d7c8c8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithms/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithms/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithms/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithms/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithms/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithms/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FindAllDuplicatesInAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FindDifference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/GenerateParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Islands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/IslandsChatGPT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/K_Anagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/LargestOddNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/LengthOfLastWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/LongestCommonPrefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MajorityElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MaxProfit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MaximumSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MergeSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MissingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/NeedleHaystack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/NumberOfIslands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/RemoveDuplicatesII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/RemoveElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ReverseWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/RomanNumerals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/RomanNumeralsII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/RotateArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/SumSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/SurroundedRegions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ValidPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restassured/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restassured/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restassured/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restassured/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restassured/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restassured/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restassured/src/main/java/pojo/GraphQLQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restassured/src/test/java/graphql/CountriesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium-cucumber/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../selenium-cucumber/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../selenium-cucumber/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../selenium-cucumber/src/main/java/base/QuotesPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../selenium-cucumber/src/main/java/pageObjects/QuotesPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../selenium-cucumber/src/main/java/base/WorldPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../selenium-cucumber/src/main/java/pageObjects/WorldPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../selenium-cucumber/src/test/java/stepdefinitions/CNBCSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/../selenium-cucumber/src/test/java/stepdefinitions/CNBCSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../selenium-testng/src/main/java/pageObjects/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../selenium-testng/src/main/java/pageObjects/HomePage.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2ZA0VBpRNJXwSid8fUNAcs20qZT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/git/automation-java/interview/src/main/java/org/example/Main.java&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="algorithms" />
+      <recent name="org.example" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SumSubArray">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithms.BinarySearch" />
+      <module name="interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="K_Anagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.K_Anagrams" />
+      <module name="interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithms.MergeSort" />
+      <module name="interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithms.SelectionSort" />
+      <module name="interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.SumSubArray" />
+      <module name="interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SumSubArray" />
+        <item itemvalue="Application.K_Anagrams" />
+        <item itemvalue="Application.BinarySearch" />
+        <item itemvalue="Application.MergeSort" />
+        <item itemvalue="Application.SelectionSort" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c7c4142d-91c2-41df-93d1-4fcca8d7c8c8" name="Changes" comment="" />
+      <created>1701849600420</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701849600420</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/ReverseWords.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/SurroundedRegions.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/GenerateParentheses.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/K_Anagrams.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

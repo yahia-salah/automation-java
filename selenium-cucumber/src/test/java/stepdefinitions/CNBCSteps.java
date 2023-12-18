@@ -1,9 +1,8 @@
 package stepdefinitions;
 
 import base.BasePage;
-import base.Hooks;
-import base.QuotesPage;
-import base.WorldPage;
+import pageObjects.QuotesPage;
+import pageObjects.WorldPage;
 import io.cucumber.datatable.DataTable;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
@@ -18,7 +17,7 @@ public class CNBCSteps extends BasePage {
     QuotesPage quotesPage;
     WorldPage worldPage;
 
-    public CNBCSteps() throws IOException {
+    public CNBCSteps() throws Exception {
         quotesPage = new QuotesPage();
         worldPage = new WorldPage();
     }

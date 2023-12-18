@@ -1,5 +1,6 @@
-package base;
+package pageObjects;
 
+import base.BasePage;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 
